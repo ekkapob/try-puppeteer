@@ -1,0 +1,16 @@
+{
+  "name": "try-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "jest": "^24.8.0",
+    "puppeteer": "^1.19.0"
+  }
+}
